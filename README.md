@@ -6,15 +6,16 @@
 
 ml_system_desing/
 │
-├── /docs/                        # Папка с документацией проекта
-│   ├── ml_system_design_doc.md   # Документация проекта
-│   ├── product_schema.png        # Блок-схема решения
+├── **/docs/**                        # **Папка с документацией проекта**
+│   ├── **ml_system_design_doc.md**   # **Документация проекта**
+│   ├── **product_schema.png**        # **Блок-схема решения**
 │
-├── README.md                     # Основная информация о проекте
-├── pre-commit-config.yaml        # Конфигурация pre-commit
-├── .ruff.toml                    # Конфигурационный файл
-├── pyproject.toml                # Конфигурационный файл
-├── requirements.txt              # Зависимости проекта
+├── **README.md**                     # **Основная информация о проекте**
+├── **pre-commit-config.yaml**        # **Конфигурация pre-commit**
+├── **.ruff.toml**                    # **Конфигурационный файл**
+├── **pyproject.toml**                # **Конфигурационный файл**
+├── **requirements.txt**              # **Зависимости проекта**
+
 
 
 
